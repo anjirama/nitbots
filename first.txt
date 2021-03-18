@@ -1,0 +1,11 @@
+this is one text file
+<<<<<<< HEAD:one.txt
+this is second file.(koti)
+=======
+this is second file.
+
+
+
+*.one.txt
+>>>>>>> issue1:first.txt
+
